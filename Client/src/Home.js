@@ -3,7 +3,7 @@ import SongList from "./SongList";
 
 const Home = () => {
 
-    const [dataSongs, setDataSongs] = useState()
+    const [dataSongs, setDataSongs] = useState();
 
     useEffect(() => {
         fetch("/songs").then(
@@ -27,6 +27,7 @@ const Home = () => {
             <div className="scrolling-cards">
                 {dataSongs && <SongList songs={dataSongs} />}
             </div>
+
             <div className="section"><h2>New Releases</h2><div className="viewall">View All</div></div>
             <div className="scrolling-cards">
                 {dataSongs && <SongList songs={dataSongs} />}
@@ -37,9 +38,8 @@ const Home = () => {
             </div>
             <div className="section"><h2>Best Songs</h2><div className="viewall">View All</div></div>
             <div className="scrolling-cards">
-                {dataSongs && <SongList songs={dataSongs} />}
+                {dataSongs && <SongList songs={dataSongs}  />}
             </div>
-
         </div>
 
     );

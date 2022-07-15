@@ -6,6 +6,10 @@ app.get('/songs', (req, res) => {
     res.json(data['songs'])
 })
 
+app.get('/song/:id', (req, res) => {
+    res.json(data['songs'])
+})
+
 app.get('/allGenres', (req, res) => {
     res.json(data[''])
 })
