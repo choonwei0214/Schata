@@ -5,70 +5,80 @@
             "author": "Harry Styles",
             "id": 1,
             "genre": "Pop rock, Contemporary R&B, UK Rap, Funk, Synth-pop, Indian Hip-Hop",
-            "image": "/Images/asitwas.png"
+            "image": "/Images/asitwas.png",
+            "duration": 165
         },
         {
             "title": "BREAK MY SOUL",
             "author": "Beyoncé",
             "id": 2,
             "genre": "House music, Dance-pop, Electronic music, R&B",
-            "image": "/Images/breakmysoul.png"
+            "image": "/Images/breakmysoul.png",
+            "duration": 165
         },
         {
             "title": "Potion",
             "author": "Calvin Harris, Dua Lipa, Young Thug",
             "id": 3,
             "genre": "Electronic, Rap, Pop, R&B",
-            "image": "/Images/potion.png"
+            "image": "/Images/potion.png",
+            "duration": 165
         },
         {
             "title": "DON'T YOU WORRY",
             "author": "Black Eyed Peas, Shakira, David Guetta",
             "id": 4,
             "genre": "Progressive House, Big room house, Dance, Electronic",
-            "image": "/Images/dontyouworry.png"
+            "image": "/Images/dontyouworry.png",
+            "duration": 165
         },
         {
             "title": "I'm In",
             "author": "a-ha",
             "id": 5,
             "genre": "Pop",
-            "image": "/Images/imin.png"
+            "image": "/Images/imin.png",
+            "duration": 165
         },
         {
             "title": "Everything Beautiful",
             "author": "ALMA",
             "id": 6,
             "genre": "Pop, Indie, Alternative",
-            "image": "/Images/everythingbeautiful.png"
+            "image": "/Images/everythingbeautiful.png",
+            "duration": 165
         },
         {
             "title": "Bam Bam (feat. Ed Sheeran)",
             "author": "Camila Cabello",
             "id": 7,
             "genre": "Latin pop, Pop, R&B, Soul, French urban pop",
-            "image": "/Images/bambam.png"
+            "image": "/Images/bambam.png",
+            "duration": 165
         },
         {
             "title": "All My Loving",
             "author": "Sam Fischer",
             "id": 8,
             "genre": "Pop",
-            "image": "/Images/allmyloving.png"
+            "image": "/Images/allmyloving.png",
+            "duration": 165
         },
         {
             "title": "The Best Is Yet To Come",
             "author": "Ray Dalton",
             "id": 9,
             "genre": "Pop",
-            "image": "/Images/thebestisyettocome.png"
+            "image": "/Images/thebestisyettocome.png",
+            "duration": 165
         },
         {
             "title": "don't come back",
             "author": "Tate McRae",
             "id": 10,
             "genre": "Pop",
-            "image": "/Images/don'tcomeback.png"
+            "image": "/Images/don'tcomeback.png",
+            "duration": 165
         }
     ]
 }
