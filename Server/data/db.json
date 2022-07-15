@@ -1,0 +1,74 @@
+{
+    "songs": [
+        {
+            "title": "As It Was",
+            "author": "Harry Styles",
+            "id": 1,
+            "genre": "Pop rock, Contemporary R&B, UK Rap, Funk, Synth-pop, Indian Hip-Hop",
+            "image": "/Images/asitwas.png"
+        },
+        {
+            "title": "BREAK MY SOUL",
+            "author": "Beyoncé",
+            "id": 2,
+            "genre": "House music, Dance-pop, Electronic music, R&B",
+            "image": "/Images/breakmysoul.png"
+        },
+        {
+            "title": "Potion",
+            "author": "Calvin Harris, Dua Lipa, Young Thug",
+            "id": 3,
+            "genre": "Electronic, Rap, Pop, R&B",
+            "image": "/Images/potion.png"
+        },
+        {
+            "title": "DON'T YOU WORRY",
+            "author": "Black Eyed Peas, Shakira, David Guetta",
+            "id": 4,
+            "genre": "Progressive House, Big room house, Dance, Electronic",
+            "image": "/Images/dontyouworry.png"
+        },
+        {
+            "title": "I'm In",
+            "author": "a-ha",
+            "id": 5,
+            "genre": "Pop",
+            "image": "/Images/imin.png"
+        },
+        {
+            "title": "Everything Beautiful",
+            "author": "ALMA",
+            "id": 6,
+            "genre": "Pop, Indie, Alternative",
+            "image": "/Images/everythingbeautiful.png"
+        },
+        {
+            "title": "Bam Bam (feat. Ed Sheeran)",
+            "author": "Camila Cabello",
+            "id": 7,
+            "genre": "Latin pop, Pop, R&B, Soul, French urban pop",
+            "image": "/Images/bambam.png"
+        },
+        {
+            "title": "All My Loving",
+            "author": "Sam Fischer",
+            "id": 8,
+            "genre": "Pop",
+            "image": "/Images/allmyloving.png"
+        },
+        {
+            "title": "The Best Is Yet To Come",
+            "author": "Ray Dalton",
+            "id": 9,
+            "genre": "Pop",
+            "image": "/Images/thebestisyettocome.png"
+        },
+        {
+            "title": "don't come back",
+            "author": "Tate McRae",
+            "id": 10,
+            "genre": "Pop",
+            "image": "/Images/don'tcomeback.png"
+        }
+    ]
+}
